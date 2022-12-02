@@ -23,14 +23,27 @@
 
 **Microverse portfolio page** is a webpage built to showcase html and css skills learned during the microverse program
 
+<!-- Build with -->
+
+## Built With
+
+- HTML5, CSS3
+- No frameworks!
+
+<!-- Setup -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
 
 👤 **Hafed**
 
-- GitHub: [@Hafedy](https://github.com/hafedEfheij)
-- LinkedIn: [Hafed](https://www.linkedin.com/in/hafedefhej/)
+- GitHub: [@dennis-every](https://github.com/hafedEfheij)
+- LinkedIn: [dennis-every](https://www.linkedin.com/in/hafedefhej/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
