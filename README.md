@@ -42,8 +42,8 @@ Clone this repository to your desired folder:
 
 👤 **Hafed**
 
-- GitHub: [@dennis-every](https://github.com/hafedEfheij)
-- LinkedIn: [dennis-every](https://www.linkedin.com/in/hafedefhej/)
+- GitHub: [@Hafed](https://github.com/hafedEfheij)
+- LinkedIn: [Hafed](https://www.linkedin.com/in/hafedefhej/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
