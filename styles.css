@@ -2,7 +2,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   background: #f7f7f9;
 }
 
@@ -16,12 +16,6 @@ header {
   box-shadow: 0 3px 7px rgba(0, 0, 0, 0.1);
 }
 
-#toolbar {
-  display: flex;
-  height: 48px;
-  justify-content: space-between;
-}
-
 #logo {
   font-size: 18px;
   font-weight: 700;
@@ -32,17 +26,10 @@ header {
   text-decoration: none;
 }
 
-#menu-bars-container {
-  padding-right: 10px;
+#toolbar {
   display: flex;
-  align-items: center;
-}
-
-.menu-bar {
-  width: 20px;
-  height: 2px;
-  background-color: #6070ff;
-  margin: 6px 0;
+  height: 48px;
+  justify-content: space-between;
 }
 
 #headline-container {
@@ -53,7 +40,7 @@ header {
   height: 100%;
   min-width: 375px;
   width: 100%;
-  background-image: url('images/background.png');
+  background-image: url("images/background.png");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 0 0 0 90px;
@@ -69,37 +56,17 @@ header {
   row-gap: 12px;
 }
 
-.header {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  max-width: 355px;
-  font-size: 40px;
-  line-height: 52px;
-  font-weight: 700;
-  color: #172b4d;
+#menu-bars-container {
+  padding-right: 10px;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
 }
 
-.text {
-  margin: 10px 0;
-  padding: 0;
-  font-size: 16px;
-  line-height: 24px;
-  width: 100%;
-  max-width: 355px;
-  overflow: auto;
-  color: #344563;
-}
-
-#connect {
-  box-sizing: border-box;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  color: #7f8cff;
-  text-transform: uppercase;
+.menu-bar {
+  width: 20px;
+  height: 2px;
+  background-color: #6070ff;
+  margin: 6px 0;
 }
 
 #social-icons {
@@ -147,6 +114,40 @@ header {
   font-size: 32px;
   line-height: 44px;
   color: #172b4d;
+}
+
+.header {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 355px;
+  font-size: 40px;
+  line-height: 52px;
+  font-weight: 700;
+  color: #172b4d;
+  display: flex;
+  align-items: flex-end;
+}
+
+.text {
+  margin: 10px 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 24px;
+  width: 100%;
+  max-width: 355px;
+  overflow: auto;
+  color: #344563;
+}
+
+#connect {
+  box-sizing: border-box;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+  text-transform: uppercase;
 }
 
 .work-card > .experience {
@@ -301,6 +302,12 @@ header {
   row-gap: 12px;
 }
 
+.detail > img {
+  mix-blend-mode: multiply;
+  object-fit: contain;
+  padding-right: 16px;
+}
+
 .detail {
   box-sizing: border-box;
   min-width: 303px;
@@ -312,10 +319,4 @@ header {
   justify-content: flex-start;
   align-items: center;
   padding: 10px;
-}
-
-.detail > img {
-  object-fit: contain;
-  mix-blend-mode: multiply;
-  padding-right: 16px;
 }
