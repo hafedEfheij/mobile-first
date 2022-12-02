@@ -29,8 +29,8 @@
 
 👤 **Hafed**
 
-- GitHub: [@dennis-every](https://github.com/hafedEfheij)
-- LinkedIn: [dennis-every](https://www.linkedin.com/in/hafedefhej/)
+- GitHub: [@Hafedy](https://github.com/hafedEfheij)
+- LinkedIn: [Hafed](https://www.linkedin.com/in/hafedefhej/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
