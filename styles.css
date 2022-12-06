@@ -324,3 +324,33 @@ header {
   align-items: center;
   padding: 10px;
 }
+
+#contact-form-container {
+  background-image: url('./images/background-contact-form.png');
+  background-size: cover;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 110px 14px 10px 14px;
+  box-sizing: border-box;
+}
+
+h2#contact-form-header {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  line-height: 52px;
+  font-size: 40px;
+  text-align: center;
+}
+
+p#contact-form-text {
+  text-align: center;
+  overflow: aling;
+  font-size: 20px;
+  font-family: 'Poppins',sans-serif;
+  color: #ebebff;
+  overflow-wrap: break-word
+}
+
